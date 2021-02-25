@@ -9,7 +9,7 @@ You should install live-server in your local machine.
 
 ```sh
 npm install -g live-server
-live-server --port=8080 --entry-file=./index.html
+live-server --port=8080 
 ```
 
 For production environments...
