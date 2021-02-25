@@ -5,7 +5,7 @@ This is a simple vanilla js example to use SPA, routing and template.
 
 This App requires [Node.js](https://nodejs.org/) v10+ to run a local server.
 
-I recommend isntall live-server in your local machine.
+You should install live-server in your local machine.
 
 ```sh
 npm install -g live-server
